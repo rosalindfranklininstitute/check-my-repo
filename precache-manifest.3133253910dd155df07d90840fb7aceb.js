@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c5b2121199c3b281c2c5",
+    "revision": "1b2996e4667b9b20fcf1",
     "url": "/check-my-repo/css/app.a81aad77.css"
   },
   {
-    "revision": "19ff3b55d2a183445b30315d39d23c00",
+    "revision": "69fbe55d8b88d23832aaae49a7e4408a",
     "url": "/check-my-repo/frontend.json"
   },
   {
@@ -28,12 +28,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/check-my-repo/img/x-circle.6d2ee7ef.svg"
   },
   {
-    "revision": "b8136f2bcf8b663d7344e7e846c5bf34",
+    "revision": "0ce0d203abe7178460878189459c8211",
     "url": "/check-my-repo/index.html"
   },
   {
-    "revision": "c5b2121199c3b281c2c5",
-    "url": "/check-my-repo/js/app.71c2f6a8.js"
+    "revision": "1b2996e4667b9b20fcf1",
+    "url": "/check-my-repo/js/app.20f4dfa5.js"
   },
   {
     "revision": "4f312830231cfb801796",
